@@ -1,4 +1,4 @@
-This new ROE page is - ROE135 Read-Only
+This new ROE page is - RoE135.2 Read-Only
 Any unauthorized writing on this page constitutes a violation of the K135 Rules of Engagement(RoE).
 The offending player will be subject to 10M silver plus tax cost for pardon, payable to the King of K135.
 Continued and intentional violations will incur an Outlaw Decree being placed on the offender with immediate effect and attack from Royal Guards WITHOUT approval of King, Hand or Queen / Head of Royal Guards WITHOUT notice.
@@ -97,16 +97,16 @@ ___
 
 1.CLANS & RESOURCES
 
-1.1) Each Clan must have a Leader and Diplomat positions. The Clan Description must include the phrase "We follow ROE135 Read-Only" and the names of the previously mentioned positions listed.
+1.1) Each Clan must have a Leader and Diplomat positions. The Clan Description must include the phrase "We follow RoE135.2 Read-Only" and the names of the previously mentioned positions listed.
 1.2) The Resources on Clan Territory belong to the Clan. This includes Quarries, Villages, Sawmills, Mines, Farmer Houses, Gold Mines, Dragon Mounds, Wellspring Ruins AND player-created villages. If you harvest these Resources on opposing Clan Territory, they can be taken back without warning. You must also repay harvested resources. To register Resources outside the Clan Territory, enter the type of Resource and coordinates in the K135 THIS IS MINE chat. 
 1.3) Under 200k is protected as long as they don't break any laws; once they break laws while being clan less, being in a CGC or in a non-roe clan, they lose roe protection as well and can be scouted 2 times and attacked 2 times
-1.4) Attacks on Clan Territories (Forts, Temples, Foundries, etc) and clan marches are illegal, and attackers are subject to court decision for outlaw status. If your Clan Territories are attacked - this does NOT justify retaliation on the attacking Clans Territories. Notify Court.
+1.4) Attacks on Clan Territories (Forts, Temples, Foundries, etc) and clan marches are illegal, unless on OUTLAW Clans, and attackers are subject to court decision for outlaw status. If your Clan Territories are attacked - this does NOT justify retaliation on the attacking Clans Territories. Notify Court.
 1.5) Clan responsibility to make sure members know chats for registration: 'DM K135 ' and 'Tare K135 '(space at the end of each) and 'RSS - K135 THIS MINE'
 
 CLANLESS
 
 1.7) Computer Generated Clans (CGC) and clanless players are not protected by RoE K135.
-1.8) Clans that don't have "We follow ROE135 Read-Only" in the clan description are also not protected by RoE135.
+1.8) Clans that don't have "We follow RoE135.2 Read-Only" in the clan description are also not protected by RoE135.
 1.9) This doesn't necessarily outlaw them, but it does mean other players can do 2 scouting and 2 attacks on them per person per 24 hours.
 There are no limits on OUTLAW attacks.
 ___ 
