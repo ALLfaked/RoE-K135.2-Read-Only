@@ -61,7 +61,7 @@ SENATE - Legislature branch
 ROYAL GUARDS - Executive branch
 
 - Royal guards serve as protectors of the kingdom. 
-- They act with the approval of the king and the proposal of the court, but they attack with the permission of the king, Queen or the Supreme Judge. In emergencies when the court cannot meet, the King may give orders alone. 
+- They act with the approval of the king and the proposal of the court, but they attack with the permission of the King, Queen, Hand or the Supreme Judge. In emergencies when the court cannot meet, the K\Q\H may give orders alone. 
 - Royal guards are the most powerful people in the kingdom and ensure that the laws are followed. However, they fulfill their duties based on trust and law, not just on power.
 - The king must appoint a Leader among the Royal Guard. -Centurion-
 ___
@@ -155,23 +155,21 @@ Attacks during peacetime, which is any time except during Clash of Throne(CoT), 
 4.3) In peacetime, all portals within 5 tiles that do not disturb a clan territory are protected.
 4.4) When there is a disagreement with a player, it should first be resolved through diplomatic means. The priority is for the parties to agree on compensation; a retaliatory attack can only be carried out once if agreed upon by DIPLOMATS or COURTS.
 4.5) It is forbidden to attack mounds and tar sources that are registered and comply with the rules.
-4.6) Clans that do not comply with the ROE K135.1 should be warned. If they explicitly reject ROE, the clan and its players can be deemed outlaws.
+4.6) Clans that do not comply with the ROE K135.2 should be warned. If they explicitly reject ROE, the clan and its players can be deemed outlaws.
 4.7) DIPLOMACY SHOULD ALWAYS HAPPEN FIRST BEFORE ANY ATTACK HAPPENS FOR ALL ATTACKS.  ATTACKS THAT HAPPEN WITHOUT ATTEMEPT OF DIPLOMACY FROM COURTS, DIPLOMAT, PALACE, or ATTACKER ARE ILLEGAL (unless CoT or outlaw)
 
 5.COT (Clash of Throne)
-5.1) During 2 days of CoT, no attacking period(NAP=peacetime) for 1 hour before and after reset, in order to focus on relevant events outside of CoT - Tinman/Shadow. No attacking between clans! Reset between both CoT days stacks 2-hour NAP!
-5.2) During the Clash of Thrones event, you cannot attack players weaker than 50% of your strength at all times. Those in the top 100 of CoT rankings can attack EACH OTHER without might restriction on Day 2 of Cot.
-5.3) Players with a Might Rating of 100K and below are protected at all times! Attacking them is always prohibited. 
-
-5.4) Clan buildings should NEVER be attacked. (risk of being outlawed)
+5.1) During 2 days of CoT, no attacking period(NAP = peacetime) for 1 hour before and after the reset, in order to focus on relevant events outside of CoT - Tinman/Shadow. No attacking between clans! Reset between the two CoT days stacks 2-hour NAP, before + after reset.
+5.2) During the Clash of Thrones event, you cannot attack players weaker than 50% of your strength at all times. Those in the top 100 of CoT rankings can attack EACH OTHER without might restriction on the Second Day of CoT.
+5.3) Players with a Capitol level 10 and below are protected at all times! Attacking them is always prohibited. 
+5.4) Clan buildings should NEVER be attacked. (Risk of being outlawed)
 5.6) You can only attack the same player twice in a 12-hour period. You can send a scout/spy once in a 12-hour period.
 5.7) Clan portals inside clan territory and event portals are PROTECTED.
 5.8) Report erroneous attacks during the COT period to the K135 COT VIOLATİONS chat. The Quaestator(Supreme Judge) and other judges will evaluate these attacks and impose the necessary punishments.
 5.9) It is allowed to use reinforcements to attack hostile portals around the clan territory or outlaws.  
 5.10) It is forbidden to attack mines, gold mounds, resource residues. There will be very serious sanctions regarding this.
-5.11) Clan marches against players during the COT are not allowed UNLESS for CPEX. Reinforcements can only be used for defensive purposes or to close portals around the clan territory. 
-5.12) Portal attacks DO NOT count as player attacks
-5.13) Clans that do not comply with ROE or Clan -Less are vulnerable to attack, as there are no COT rules for them. However, players under 100K are still protected.
+5.11) Portal attacks DO NOT count as player attacks
+5.12) Clans that do not comply with ROE or Clanless are vulnerable to attack, as there are no COT rules for them. However, players with Capitol lower than level 10 are still protected.
 ___ 
 
 PORTALS
