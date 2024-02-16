@@ -52,12 +52,11 @@ SENATE - Legislature branch
 
 - The Senate is constitued of top100 players in CoT.
 - The Senate is an institution where discussions about the kingdom are held, and suggestions are made. 
-- The Senate is a place where kingdom issues will be discussed. Violations that diplomats cannot resolve will not be sent to the Senate, but to Supreme Court.
+- The Senate is a place where kingdom issues will be discussed. Violations that diplomats cannot resolve will not be sent to the Senate, but to Diplomats->Supreme Court.
 - The King, Queen and the Hand of the King listen to the discussions in the senate and forward requests regarding violations to the Court when necessary. 
 - The king listens to the proposals of the senate regarding the problems of the kingdom. The decision regarding the proposals belongs to the king. 
 - A support chat consisting of Senate members will be created. New players will be helped, and resources will be provided in this chat.
 - The Senate floor is open to kingdom to observe but when members who are not senators disrupt the floor they can be removed with (recommended) punishments by king.
-- Can go off topic and discuss the weather too sometimes
 
 ROYAL GUARDS - Executive branch
 
