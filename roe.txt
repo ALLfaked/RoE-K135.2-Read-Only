@@ -4,7 +4,7 @@ The offending player will be subject to 10M silver plus tax cost for pardon, pay
 Continued and intentional violations will incur an Outlaw Decree being placed on the offender with immediate effect and attack from Royal Guards WITHOUT approval of King, Hand or Queen / Head of Royal Guards WITHOUT notice.
 ___ 
 
-KINGDOM - Separation of powers is the division of a state's ruling into branches, each with separate, independent powers and responsibilities, so that the powers of one branch are not in conflict with others. The typical division into three branches of ruling, sometimes called the trias politica model, includes a legislature, an executive, and a judiciary. R egulator for these power shall be the King's Council on major decisions and disputes.
+KINGDOM 135 - Separation of powers is the division of a state's ruling into branches, each with separate, independent powers and responsibilities, so that the powers of one branch are not in conflict with others. The typical division into three branches of ruling, sometimes called the trias politica model, includes a legislature, an executive, and a judiciary. Regulator for these power shall be the King's Council on major decisions and disputes. ALL the Authority representatives in Palace AND reigners of kingdom matters MUST adhere to code of conduct and have respect to each other. That includes Senators in Parliament too.
 
 Role of King: 
  
@@ -12,7 +12,7 @@ King and Hand of King are both automatic members of the Royal Guard.
 King shall appoint roles in the palace that give the kingdom fair representation. King may make his own selection for Queen, Hand of king. The other roles should be OUTSIDE of the his clan and represent the kingdom. Clans can't have more than 2 titles in the Palace at a time.
 King should inform other palace members of their roles with kingdom and make sure they are fulfilled.
 Shall appoint a Head of Royal Guards. -Centurion-
-Shall appoint Chief of Police: DM Police District -Archon-
+Shall appoint Chief of Police: DM Chief of Police -Archon-
 Shall appoint a Supreme Judge. -Quaestator-
 Shall have the final vote with various councils if there is a tie.
 
@@ -33,19 +33,19 @@ ___
 Role of Quaestator: Supreme Judge of the Royal Court. Has the authority to release Outlaw Decrees and final decisions on cases in Royal Court.
 Quaestator can appoint/replace Judges in Royal Court, in case they are unwilling/unable to serve or for bad conduct, with Kings approval.
 ___
-Role of Treasurer: Has access to treasury and bonus activation and Tax collection from evaders. Is a Royal Guard too.
+Role of Treasurer: Has access to treasury and bonus activation and Tax collection from evaders. Is a Royal Guard too or previous King as well.
 ___
 
 
 
 KING'S COUNCIL - Parliament
-- Is constitued of 1 representative(clan leader/his delegate) from top10 most represented clans in top100 of CoT.
+- Is constitued of 1 representative(clan leader/his delegate) from top10 most represented clans(most members) in top100 of CoT.
 - Vote on RoE amends/changes, actions by or disputes between the King, Queen or Hand of King. 
 - King, Queen and Hand dont have a vote, unless they are the only representative from their clan, which is eligible to participate in Council.
 - Votes can pass with majority of votes out of the 10 leaders. Therefore, 6 votes YES needed for a succesfull vote.
-- Leaders can vote with YES, NO, or Abstain(zero/null vote).
+- Leaders can vote with YES, NO, or Abstain( 0/null vote).
 - After 6 Yes are present, vote is pass.
-- No off-topics are allowed.
+- No off-topics are allowed, no bad conduct too.
 
 ___
 SENATE - Legislature branch
@@ -98,9 +98,9 @@ ___
 1.CLANS & RESOURCES
 
 1.1) Each Clan must have a Leader and Diplomat positions. The Clan Description must include the phrase "We follow RoE135.2 Read-Only" and the names of the previously mentioned positions listed.
-1.2) The Resources on Clan Territory belong to the Clan. This includes Quarries, Villages, Sawmills, Mines, Farmer Houses, Gold Mines, Dragon Mounds, Wellspring Ruins AND player-created villages. If you harvest these Resources on opposing Clan Territory, they can be taken back without warning. You must also repay harvested resources. To register Resources outside the Clan Territory, enter the type of Resource and coordinates in the K135 THIS IS MINE chat. 
-1.3) Under 200k is protected as long as they don't break any laws; once they break laws while being clan less, being in a CGC or in a non-roe clan, they lose roe protection as well and can be scouted 2 times and attacked 2 times
-1.4) Attacks on Clan Territories (Forts, Temples, Foundries, etc) and clan marches are illegal, unless on OUTLAW Clans, and attackers are subject to court decision for outlaw status. If your Clan Territories are attacked - this does NOT justify retaliation on the attacking Clans Territories. Notify Court.
+1.2) The Resources on Clan Territory + 5 tiles outside of it belong to the Clan. This includes Quarries, Villages, Sawmills, Mines, Farmer Houses, Gold Mines, Dragon Mounds, Wellspring Ruins AND player-created villages. If you harvest these Resources on opposing Clan Territory, they can be taken back without warning. You must also repay harvested resources. Any clan territory that overlaps is on a first come, first serve basis and is shared between those two clans. To register Resources outside the Clan Territory, enter the type of Resource and coordinates in the K135 THIS IS MINE chat. 
+1.3) ONLY Players under level 10 CAPITOL are protected as long as they don't break any laws; once they break laws while being clan less, being in a CGC or in a non-roe clan, they lose roe protection as well and can be scouted 2 times and attacked 2 times
+1.4) Attacks on Clan Territories (Forts, Temples, Foundries, etc) and clan marches are illegal, unless on OUTLAW Clans. Attackers are subject to court decision for outlaw status. If your Clan Territories are attacked - this does NOT justify retaliation on the attacking Clans Territories. Notify Court.
 1.5) Clan responsibility to make sure members know chats for registration: 'DM K135 ' and 'Tare K135 '(space at the end of each) and 'RSS - K135 THIS MINE'
 
 CLANLESS
@@ -113,11 +113,11 @@ ___
 
 TAR/DM
 
-1.10) Dragon mounds must be registered in the DM K135 group, and tar must be registered in the Tare k135 group. Unregistered resources are vulnerable to attacks.
+1.10) Dragon mounds must be registered in the DM K135 group, and tar must be registered in the Tare k135 group. Unregistered resources are vulnerable to legal attacks from the aggrieved clan members, Police Chief, Royal Guards, King, Queen or Hand.
 1.11) Each player is entitled to 1 dragon mound and 1 tar source per day. 
 1.12) Each clan is entitled to 10 registrations per day for each TAR and DM. 
-1.13) A player can give their mound or wellspring to another player, as long as the new player registers it and neither breaches the 'per day' rule.
-1.14) If the 'per-day' is violated 3 times, the player's right to access official resources will be terminated.
+1.13) A player can give their DM or wellspring to another player, as long as the new player registers it and neither breaches the 'per day' rule.
+1.14) If the 'per-day' is violated 3 times, the player's right to access official resources will be terminated for 10 days.
 1.15) Registered mounds and mines should never be attacked. 3 million silver, corresponding to 1k gold lost as a result of the attack, is subject to compensation. 
 1.16) In case of non-compliance with Dragon mounds and Wellspring Ruins rules, compensation will be applied. Players who do not pay compensation will be referred to the court, and sanctions will be imposed with the advice of the court and the approval of the king.
 ___
@@ -138,7 +138,7 @@ ___
 
 3.OUTLAWS
 
-3.1) Outlaw status is granted by the court's proposal. Approved by King or Queen. Once approved, the Outlaw Decree and Status will be released in Kingdom and Outlaw chat by member of the Royal Court. ALL clan recruiters are obliged to review the Outlaw list before accepting new members to avoid harboring of Outlaws and risk the clan being outlawed too. Outlaws Chat is called 'K135 Outlaws'
+3.1) Outlaw status is granted by the court's proposal. Approved by King, Queen or Hand of King. Once approved, the Outlaw Decree and Status will be released in Kingdom and Outlaw chat by member of the Royal Court. ALL clan recruiters are obliged to review the Outlaw list before accepting new members to avoid harboring of Outlaws and risk the clan being outlawed too. Outlaws Chat is called 'K135 Outlaws'
 3.2) Until they step out of their outlaw status, outlaws are always vulnerable, regardless of their power level and/or type. 
 3.3) Outlaws have no right to any resources. They can be evicted from it.
 3.4) A clan that keeps an outlaw player will result in the leader and all superiors designated as outlaws within 24 hours of notification from any Authorities, and notify innocent members to leave this clan 48 hours before declaring WHOLE clan as outlaws. No one can attack innocent members before the 3-day period notice expires and Outlaw Decree for WHOLE clan.
@@ -156,9 +156,8 @@ Attacks during peacetime, which is any time except during Clash of Throne(CoT), 
 4.3) In peacetime, all portals within 5 tiles that do not disturb a clan territory are protected.
 4.4) When there is a disagreement with a player, it should first be resolved through diplomatic means. The priority is for the parties to agree on compensation; a retaliatory attack can only be carried out once if agreed upon by DIPLOMATS or COURTS.
 4.5) It is forbidden to attack mounds and tar sources that are registered and comply with the rules.
-4.6) Royal guards can attack players to collect ingots without warning.
-4.7) Clans that do not comply with the ROE K135.1 should be warned. If they explicitly reject ROE, the clan and its players can be deemed outlaws.
-4.8) DIPLOMACY SHOULD ALWAYS HAPPEN FIRST BEFORE ANY ATTACK HAPPENS FOR ALL ATTACKS.  ATTACKS THAT HAPPEN WITHOUT ATTEMEPT OF DIPLOMACY FROM COURTS, DIPLOMAT, PALACE, or ATTACKER ARE ILLEGAL (unless CoT or outlaw)
+4.6) Clans that do not comply with the ROE K135.1 should be warned. If they explicitly reject ROE, the clan and its players can be deemed outlaws.
+4.7) DIPLOMACY SHOULD ALWAYS HAPPEN FIRST BEFORE ANY ATTACK HAPPENS FOR ALL ATTACKS.  ATTACKS THAT HAPPEN WITHOUT ATTEMEPT OF DIPLOMACY FROM COURTS, DIPLOMAT, PALACE, or ATTACKER ARE ILLEGAL (unless CoT or outlaw)
 
 5.COT (Clash of Throne)
 5.1) During 2 days of CoT, no attacking period(NAP=peacetime) for 1 hour before and after reset, in order to focus on relevant events outside of CoT - Tinman/Shadow. No attacking between clans! Reset between both CoT days stacks 2-hour NAP!
@@ -178,17 +177,14 @@ ___
 
 PORTALS
 
-2.1) Portals on Clan Territory are protected. Clan borders plus an additional 5 tiles are considered clan Territory. No attacks allowed.
-2.2) Portals opened to harvest Dragon Mines and Wellspring Ruins are protected in peacetime and COT as long as they are not used for attacks.
-2.3) In peacetime, Portals outside the Clan Territory are protected. However, they must be 5 tiles away from another Clan's Territory (excluding Event Portals). The 5-tile rule does not apply for Caravans (compensation or sending resources). However, these should be reported to the Clan Leader or diplomat to avoid confusion.
-2.4) Event portals are protected in peacetime and COT. (as long as the event timer is still going)
-2.5) Portals can be reinforced/bunkered.
+6.1) Portals on Clan Territory are protected. Clan borders plus an additional 5 tiles are considered clan Territory. No attacks allowed.
+6.2) Portals opened to harvest Dragon Mines and Wellspring Ruins are protected in peacetime and COT as long as they are not used for attacks.
+6.3) In peacetime, Portals outside the Clan Territory are protected. However, they must be 5 tiles away from another Clan's Territory (excluding Event Portals). The 5-tile rule does not apply for Caravans (compensation or sending resources). However, these should be reported to the Clan Leader or diplomat to avoid confusion.
+6.4) Event portals are protected in peacetime and COT. (as long as the event timer is still going)
+6.5) Portals can be reinforced/bunkered.
 ___
 
 
 
 ___
-This new ROE page is - ROE135 Read-Only
-Any unauthorized writing on this page constitutes a violation of the K135 ROE
-The offending player will be subject to attack from the Royal Guard via verdict of the courts.
-Continued and intentional violations will incur an Outlaw Decree being placed on the offender with a 10M silver plus tax cost for pardon, payable to the Queen of K135.
+This new ROE page is - RoE135.2 Read-Only
