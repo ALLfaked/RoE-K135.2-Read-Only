@@ -113,12 +113,11 @@ ___
 TAR/DM
 
 1.10) Dragon mounds must be registered in the DM K135 group, and tar must be registered in the Tare k135 group. Unregistered resources are vulnerable to legal attacks from the aggrieved clan members, Police Chief, Royal Guards, King, Queen or Hand.
-1.11) Each player is entitled to 1 dragon mound and 1 tar source per day. 
-1.12) Each clan is entitled to 10 registrations per day for each TAR and DM. 
-1.13) A player can give their DM or wellspring to another player, as long as the new player registers it and neither breaches the 'per day' rule.
-1.14) If the 'per-day' is violated 3 times, the player's right to access official resources will be terminated for 10 days.
-1.15) Registered mounds and mines should never be attacked. 3 million silver, corresponding to 1k gold lost as a result of the attack, is subject to compensation. 
-1.16) In case of non-compliance with Dragon mounds and Wellspring Ruins rules, compensation will be applied. Players who do not pay compensation will be referred to the court, and sanctions will be imposed with the advice of the court and the approval of the king.
+1.11) Each player is entitled to 1 dragon mound and 1 tar source per day.
+1.12) A player can give their DM or wellspring to another player, as long as the new player registers it and neither breaches the 'per day' rule.
+1.13) If the 'per-day' is violated 3 times, the player's right to access official resources will be terminated for 10 days.
+1.14) Registered mounds and mines should never be attacked. 3 million silver, corresponding to 1k gold lost as a result of the attack, is subject to compensation. 
+1.15) In case of non-compliance with Dragon mounds and Wellspring Ruins rules, compensation will be applied. Players who do not pay compensation will be referred to the court, and sanctions will be imposed with the advice of the court and the approval of the king.
 ___
 
 2.TAXES 
@@ -169,7 +168,8 @@ Attacks during peacetime, which is any time except during Clash of Throne(CoT), 
 5.9) It is allowed to use reinforcements to attack hostile portals around the clan territory or outlaws.  
 5.10) It is forbidden to attack mines, gold mounds, resource residues. There will be very serious sanctions regarding this.
 5.11) Portal attacks DO NOT count as player attacks
-5.12) Clans that do not comply with ROE or Clanless are vulnerable to attack, as there are no COT rules for them. However, players with Capitol lower than level 10 are still protected.
+5.12)Clan marches against players during the COT are not allowed UNLESS for friendly CPEX. Reinforcements can only be used for defensive purposes or to close portals around the clan territory. 
+5.13) Clans that do not comply with ROE or Clanless are vulnerable to attack, as there are no COT rules for them. However, players with Capitol lower than level 10 are still protected.
 ___ 
 
 PORTALS
